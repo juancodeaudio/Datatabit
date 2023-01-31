@@ -163,8 +163,6 @@ main {
     font-weight: bold;
     line-height: 2.3rem;
     color: var(--bitcoin-orange);
-    text-align: left;
-    padding-left: 17px;
 }
 
 .currency-table--container {
@@ -541,3 +539,4 @@ footer .left ul {
     text-decoration: none;
     color: var(--white);
 }
+
